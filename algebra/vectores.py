@@ -1,3 +1,10 @@
+"""
+Tercera tarea APA - Vectores
+Alumno: Alexandre Pascual
+"""
+
+
+
 class Vector:
     vector = []
 
